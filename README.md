@@ -1,2 +1,2 @@
 # genmoltasks
-data, models and samples 
+Training datasets and model samples. 
